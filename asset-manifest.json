@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/framer/static/js/main.d7283ece.js",
+    "index.html": "/framer/index.html",
+    "main.d7283ece.js.map": "/framer/static/js/main.d7283ece.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d7283ece.js"
+  ]
+}
